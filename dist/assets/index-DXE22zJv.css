@@ -1,0 +1,1 @@
+*{box-sizing:border-box;margin:0;padding:0;font-family:Montserrat,sans-seriff}.main-container{display:flex;flex-direction:column;justify-content:space-around;height:100%;padding:2em;font-size:.8rem}.square-container,.pill-container{display:flex;gap:1em}.general{padding:1em 1.5em;cursor:pointer}.pill{border-radius:1em}.random-badge{align-self:center}
